@@ -1,0 +1,12 @@
+git commands
+
+
+path : C:\Users\Jyoti\eclipseWorkspace>
+
+Commands:
+
+1:  git status
+2:  git add <folder/file name>
+3:  git status (optional to verify)
+4:  git commit -m "message"
+5:  git push -u origin master
