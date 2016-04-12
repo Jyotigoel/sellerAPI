@@ -10,3 +10,8 @@ Commands:
 3:  git status (optional to verify)
 4:  git commit -m "message"
 5:  git push -u origin master
+
+
+
+for Mohit laptop path:
+/home/mohit/workspace/jyoti/sellerAPI
