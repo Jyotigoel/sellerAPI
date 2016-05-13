@@ -19,30 +19,42 @@
 			<scope>test</scope>
 			<version>4.12</version>
 		</dependency>
+		<dependency>
+			<groupId>com.jayway.restassured</groupId>
+			<artifactId>rest-assured</artifactId>
+			<version>1.4</version>
+			<scope>test</scope>
+		</dependency>
 		<!-- Json related dependencies start -->
 		<dependency>
 			<groupId>com.googlecode.json-simple</groupId>
 			<artifactId>json-simple</artifactId>
 			<version>1.1.1</version>
 		</dependency>
-<!-- 		<dependency> -->
-<!-- 			<groupId>com.google.code.gson</groupId> -->
-<!-- 			<artifactId>gson</artifactId> -->
-<!-- 		</dependency> -->
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20090211</version>
+		</dependency>
+		<dependency>
+		<groupId>com.google.code.gson</groupId>
+		<artifactId>gson</artifactId>
+		<version>2.6.2</version>
+		</dependency>
 
-<!-- 		<dependency> -->
-<!-- 			<groupId>com.fasterxml.jackson.core</groupId> -->
-<!-- 			<artifactId>jackson-databind</artifactId> -->
-<!-- 			<version>2.6.4</version> --> 
-<!-- 		</dependency> -->
+		<!-- <dependency> -->
+		<!-- <groupId>com.fasterxml.jackson.core</groupId> -->
+		<!-- <artifactId>jackson-databind</artifactId> -->
+		<!-- <version>2.6.4</version> -->
+		<!-- </dependency> -->
 
 		<!-- Json related dependencies end -->
 		<!-- Spring Data MongoDB -->
-<!-- 		<dependency> -->
-<!-- 			<groupId>org.springframework.data</groupId> -->
-<!-- 			<artifactId>spring-data-mongodb</artifactId> -->
-<!-- 			<version>1.8.2.RELEASE</version> -->
-<!-- 		</dependency> -->
+		<!-- <dependency> -->
+		<!-- <groupId>org.springframework.data</groupId> -->
+		<!-- <artifactId>spring-data-mongodb</artifactId> -->
+		<!-- <version>1.8.2.RELEASE</version> -->
+		<!-- </dependency> -->
 
 	</dependencies>
 
